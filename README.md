@@ -7,5 +7,5 @@
 
 ### imageTool 
 
-1. exchangeChannel.py 交换文件夹中图片的通道
+1. exchangeChannel.py 对文件夹中指定格式图片进行RGBA通道交换处理
 2. addChannel.py 添加通道
